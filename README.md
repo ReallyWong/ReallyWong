@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Ruoli Wang, founder of Beijing Captain Technology.
 <!--
 **ReallyWong/ReallyWong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
